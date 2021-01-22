@@ -1,17 +1,17 @@
 {
 	"top shelf": {
 		"proteins": "chicken",
-        "fats": "butter", 
-        "carbs": "potato"
-    },
-    "middle shelf": {
+		"fats": "butter",
+		"carbs": "potato"
+	},
+	"middle shelf": {
 		"proteins": "mince",
-        "fats": "cheese", 
-        "carbs": "bread"
-    },
-    "bottom shelf": {
+		"fats": "cheese",
+		"carbs": "bread"
+	},
+	"bottom shelf": {
 		"proteins": "egg",
-        "fats": "cake", 
-        "carbs": "muffin"
+		"fats": "cake",
+		"carbs": "muffin"
 	}
 }
